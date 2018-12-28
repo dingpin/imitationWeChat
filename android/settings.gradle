@@ -1,0 +1,5 @@
+rootProject.name = 'RNwechatOne'
+include ':@remobile_react-native-toast'
+
+
+include ':app'
